@@ -3,8 +3,10 @@
 Este archivo HTML representa una página de inicio de sesión diseñada específicamente para una página web relacionada con comida. La página proporciona un formulario donde los usuarios pueden ingresar su correo electrónico y contraseña para acceder.
 
 
-![Login en Dispositivo Móvil](./img/login-page.png) 
 
+<div align="center">
+    <img src="./img/login-page.png" alt="Login en Dispositivo Móvil">
+</div>
 
     
 # Contenido
